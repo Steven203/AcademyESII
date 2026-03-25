@@ -1,10 +1,10 @@
-package com.academy.curso;
+package com.academy.course;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CursoApplicationTests {
+class CourseApplicationTests {
 
 	@Test
 	void contextLoads() {
